@@ -1,3 +1,5 @@
+LICENSE
+README.md
 pyproject.toml
 brainfuck/__init__.py
 brainfuck/__main__.py
