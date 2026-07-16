@@ -3,7 +3,7 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "ronsum-brainfuck-int"
+name = "ronsum-brainfuck"
 version = "1.0.0"
 description = "A Brainfuck interpreter written in Python."
 readme = "README.md"
