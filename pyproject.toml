@@ -5,6 +5,19 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "brainfuck-interpreter"
 version = "1.0.0"
+description = "A Brainfuck interpreter written in Python."
+readme = "README.md"
+license = {file = "LICENSE"}
+authors = [
+    {name = "Saksham Dwivedi"}
+]
+requires-python = ">=3.10"
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
 
 [project.scripts]
 bf = "brainfuck.__main__:main"
