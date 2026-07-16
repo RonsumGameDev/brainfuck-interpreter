@@ -1,0 +1,10 @@
+pyproject.toml
+brainfuck/__init__.py
+brainfuck/__main__.py
+brainfuck/interpreter.py
+brainfuck/preprocessor.py
+brainfuck_interpreter.egg-info/PKG-INFO
+brainfuck_interpreter.egg-info/SOURCES.txt
+brainfuck_interpreter.egg-info/dependency_links.txt
+brainfuck_interpreter.egg-info/entry_points.txt
+brainfuck_interpreter.egg-info/top_level.txt

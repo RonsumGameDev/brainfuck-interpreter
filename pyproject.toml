@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "brainfuck-interpreter"
+version = "1.0.0"
+
+[project.scripts]
+bf = "brainfuck.__main__:main"
